@@ -42,20 +42,20 @@
   }
   
   button {
-    background-color: white; /* สีพื้นหลังของปุ่ม */
-    color: black; /* สีตัวอักษรของปุ่ม */
-    border: 2px solid black; /* ขอบของปุ่ม */
-    padding: 10px 20px; /* ระยะห่างด้านในของปุ่ม */
-    font-size: 16px; /* ขนาดตัวอักษร */
-    cursor: pointer; /* เปลี่ยนเคอร์เซอร์เมื่อวางบนปุ่ม */
-    border-radius: 5px; /* มุมปุ่มกลม */
-    transition: background-color 0.3s, border-color 0.3s; /* การเปลี่ยนสีพื้นหลังและสีขอบเมื่อโฮเวอร์ */
-    margin: 5px; /* ระยะห่างรอบปุ่ม */
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, border-color 0.3s;
+    margin: 5px;
   }
   
   button:hover {
-    background-color: #f0f0f0; /* สีพื้นหลังเมื่อวางเมาส์เหนือปุ่ม */
-    border-color: #333; /* สีขอบเมื่อวางเมาส์เหนือปุ่ม */
+    background-color: #f0f0f0;
+    border-color: #333;
   }
   </style>
   
